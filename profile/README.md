@@ -6,7 +6,7 @@ Welcome to **SpectraNeura**, a team dedicated to advancing the boundaries of dee
 - [Jihyeon Yoon](https://github.com/jihyun2284)
 - [Sunjun Hwang](https://github.com/justinbrianhwang)
 - [Junhong Min](https://github.com/joonhong-min)
-- [Jeongnyeon Kim]()
+- [Jeongnyeon Kim](https://github.com/kimjeongnyeon)
 
 
 
